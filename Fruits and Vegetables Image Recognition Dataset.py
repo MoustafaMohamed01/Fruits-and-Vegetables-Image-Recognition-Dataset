@@ -78,7 +78,7 @@ plt.legend()
 plt.show()
 
 # Image Prediction and Class Probability
-image = "test/spinach/Image_4.jpg"
+image = "apple.jpg"
 image = tf.keras.utils.load_img(image, target_size=(180, 180))
 image = tf.keras.utils.array_to_img(image)
 image = tf.expand_dims(image, 0)
