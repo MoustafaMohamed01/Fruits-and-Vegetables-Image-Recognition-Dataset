@@ -85,3 +85,5 @@ image = tf.expand_dims(image, 0)
 predict = model.predict(image)
 score = tf.nn.softmax(predict)
 print("Image: {} | Accuracy: {:0.2f}%".format(data_cat[np.argmax(score)], np.max(score)*100))
+
+model.save("Fruit& Vegetables Image Classifier.keras")
