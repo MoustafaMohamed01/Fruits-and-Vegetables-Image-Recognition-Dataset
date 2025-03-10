@@ -30,7 +30,7 @@ The model is built using a CNN with the following layers:
 ### Clone the Repository
 ```bash
 git clone https://github.com/MoustafaMohamed01/Fruits-and-Vegetables-Image-Recognition-Dataset.git
-cd fruit-veg-classification
+cd Fruits-and-Vegetables-Image-Recognition-Dataset
 ```
 ### Install Dependencies
 Ensure you have Python and the required libraries installed:
