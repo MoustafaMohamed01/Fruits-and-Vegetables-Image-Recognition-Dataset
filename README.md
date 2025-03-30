@@ -3,6 +3,15 @@
 ## Project Overview
 This project is a deep learning-based image classification system that identifies different fruits and vegetables using a Convolutional Neural Network (CNN). The model is trained on an image dataset of various fruits and vegetables and achieves classification through TensorFlow and Keras.
 
+---
+
+## Results  
+
+### **Training Accuracy Curve**  
+![Training Accuracy & Loss](training_accuracy&loss.png)
+
+---
+
 ## Features
 - Uses a CNN model to classify images of fruits and vegetables.
 - Trained on a dataset of labeled fruit and vegetable images.
