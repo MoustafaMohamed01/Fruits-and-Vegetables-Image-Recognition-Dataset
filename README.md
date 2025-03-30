@@ -7,7 +7,7 @@ This project is a deep learning-based image classification system that identifie
 
 ## Results  
 
-### **Training Accuracy Curve**  
+### **Training Accuracy & Loss**  
 ![Training Accuracy & Loss](training_accuracy&loss.png)
 
 ---
