@@ -76,6 +76,7 @@ plt.title("Loss")
 plt.tight_layout()
 plt.legend()
 plt.show()
+plt.savefig("training_accuracy&loss.png")
 
 # Image Prediction and Class Probability
 image = "apple.jpg"
